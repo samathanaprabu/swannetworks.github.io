@@ -1,0 +1,25 @@
+@import "../../../../../../plugins/so-widgets-bundle/base/less/mixins";
+
+@page_title_color: default;
+@page_divider_color: default;
+@page_content_color: default;
+
+.segment-featured-page .featured-page-content {
+	.widget-title {
+		color: @page_title_color;
+	}
+	.heading-divider {
+		background-color: @page_divider_color;
+	}
+	.page-content-summary {
+		color: @page_content_color;
+		& h1,
+		& h2,
+		& h3,
+		& h4,
+		& h5,
+		& h6 {
+			color: @page_content_color;
+		}
+	}
+}

@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: eStartup
-Theme URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
+Template Name: eStartup
+Template URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
 Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+License: https://bootstrapmade.com/license/
